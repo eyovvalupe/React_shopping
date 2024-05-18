@@ -28,8 +28,3 @@ yarn start
 
 
 > In the `patches` directory, there is a patched version of CRA's `config/webpackDevServer.config.js` that adds a little express middleware that will delay the high-res images from loading for demo purposes. It sniffs any requests including with `-hd.jpeg` and waits for the value of `delay` query parameter. The `<Debugger />` request latency slider is used to set this query parameter's value for all images.
-
-
-## What's it look like?
-
-![kapture 2018-10-29 at 15 50 42](https://user-images.githubusercontent.com/4060187/47676250-789c0880-db92-11e8-8b67-e6e90f0cd5a2.gif)
