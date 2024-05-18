@@ -1,9 +1,8 @@
-# Moving to React Suspense
 
-By [Jared Palmer](https://twitter.com/jaredpalmer) at [React Conf 2018](https://conf.reactjs.org).
+# isntalling env
 
----
-
+- 
+- $ npm install
 
 This is the source code to the application I demo'd at React Conf 2018. It is a small slice of Spotify called Suspensify. It's built with create react app, reach router, and good ol' setState. 
 
